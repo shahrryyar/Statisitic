@@ -31,8 +31,10 @@ Includes data cleaning, visualization, and analysis.
 Uses Python libraries like Pandas, Matplotlib, and Seaborn.
 
 
--content: World-Population.csv
--Analysis: World-population-code.ipynb
+content: World-Population.csv
+
+
+Analysis: World-population-code.ipynb
 
 Project Goals
 Clean and structure the dataset effectively.
